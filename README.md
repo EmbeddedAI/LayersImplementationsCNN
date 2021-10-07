@@ -8,6 +8,4 @@ Implementations in C and their comparison in Python with keras tensorflow of the
 ## Authors ✒️
 **Juan Sebastian Barreto Jiménez** - *Main team* - [jsebastianbarretoj99](https://github.com/jsebastianbarretoj99)<br />
 **Juan Camilo Devia Bastos** - *Main team* - [juandevia](https://github.com/juandevia)<br />
-
-## Consultant ✒️
-**Eduardo Andrés Gerlien Reyes** - *Main team* - [eagerlein](https://github.com/eagerlein)<br />
+**Eduardo Andrés Gerlien Reyes** - *Consultant* - [eagerlein](https://github.com/eagerlein)<br />
