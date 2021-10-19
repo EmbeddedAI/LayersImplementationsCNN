@@ -16,7 +16,4 @@ void backward_batchnorm_layer(layer l, network net);
 // void push_batchnorm_layer(layer l);
 // #endif
 
-#include "batchnorm_layer.c"
-
-
 #endif

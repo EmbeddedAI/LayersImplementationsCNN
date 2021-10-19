@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "algorithm": "c",
+        "*.tcc": "c",
+        "deque": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "array": "c",
+        "functional": "c",
+        "iterator": "c",
+        "memory_resource": "c",
+        "optional": "c",
+        "tuple": "c",
+        "fstream": "c",
+        "iosfwd": "c",
+        "istream": "c",
+        "memory": "c",
+        "numeric": "c",
+        "streambuf": "c",
+        "cmath": "c",
+        "utility": "c"
+    }
+}
